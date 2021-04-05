@@ -9,4 +9,4 @@ Majoring in Business Administration & Statistics
 	
   </div>
   
-## Projects
+### Projects
