@@ -1,5 +1,5 @@
 ### Jiin Lee
-##### Ewha Univ. Business Administration & Statistics
+###### Ewha Univ. Business Administration & Statistics
 
 
 <div>
