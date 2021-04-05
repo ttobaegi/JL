@@ -1,6 +1,7 @@
 ## Jiin Lee
 
 Ewha Womans University 
+
 Majoring in Business Administration & Statistics 
  <div>
 
