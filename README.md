@@ -1,4 +1,4 @@
-### Data Visualization 
+### Jiin Lee 
 ###### Ewha Univ. Business Administration & Statistics
 
 
