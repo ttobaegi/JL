@@ -10,6 +10,6 @@
   
 ## Projects
 ### Document based Recommender System for book 
-Presentation: ![SlideShare](https://img.shields.io/badge/-SlideShare-blue?style=flat-square&logo=SlideShare&logoColor=white&link=https://www.slideshare.net/BOAZbigdata/11-boaz-boaz/)
+Presentation: [![SlideShare](https://img.shields.io/badge/-SlideShare-blue?style=flat-square&logo=SlideShare&logoColor=white&link=https://www.slideshare.net/BOAZbigdata/11-boaz-boaz/)]
 
-Code : ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/ttobaegi/Projects/tree/main/BOAZ/Conference/)
+Code : [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/ttobaegi/Projects/tree/main/BOAZ/Conference/)]
