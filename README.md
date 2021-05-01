@@ -16,13 +16,5 @@
 ### WebAnalytics (MySQL)
 * Code
 
-## Certificates & Skills
-- Tableau Desktop Specialist (2021/03)
-- GAIQ [Google Analytics Individual Qualification] (2021/03)
-- SQLD [SQL Developer] (2019/07) 
-- ADsP [Advanced Data Analytics Semi-Professional] (2018/09)
-- Programming Languages : Python(Numpy, Pandas, matplotlib, Scikit-learn), R
-- Databases : MySQL
-
 
 </div>
