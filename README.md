@@ -11,5 +11,11 @@ ___
 - GAIQ Google Analytics Individual Qualification (2021.03)
 - SQLD SQL Developer (2019.07)
 - ADsP Advanced Data Analytics Semi-Professional (2018.09)
+  
+**🛠 Skills**   
+
+- **Data Visualization**  Tableau Power BI
+- **Programming Languages**  Python(Numpy, Pandas, Scikit-learn, matplotlib), R
+- **Databases**  MySQL, MS-SQL
 
 </div>
