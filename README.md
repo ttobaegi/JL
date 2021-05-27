@@ -13,9 +13,9 @@ ___
 - ADsP Advanced Data Analytics Semi-Professional (2018.09)
   
 #### 🛠 Skills   
-
-- **Data Visualization**  Tableau Power BI
+  
 - **Programming Languages**  Python(Numpy, Pandas, Scikit-learn, matplotlib), R
+- **Data Visualization**  Tableau Power BI
 - **Databases**  MySQL, MS-SQL
 
 </div>
