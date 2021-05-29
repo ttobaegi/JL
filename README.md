@@ -24,7 +24,7 @@
   - **[Ecommerce users](https://github.com/ttobaegi/Projects/tree/main/Ecommerce)**
   - **[Side Projects](https://github.com/ttobaegi/Selfstudy_python/tree/main/Customer%20Analytics)**
 
-- **[Data Engineering](https://github.com/ttobaegi/DataEngineering)**
 - **[Book](https://github.com/ttobaegi/Projects/tree/main/Conference)**
+- **[Data Engineering](https://github.com/ttobaegi/DataEngineering)**
   
 </div>
