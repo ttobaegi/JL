@@ -17,5 +17,14 @@ ___
 - **Programming Languages**  Python(Numpy, Pandas, Scikit-learn, matplotlib), R
 - **Data Visualization**  Tableau Power BI
 - **Databases**  MySQL, MS-SQL
+  
+#### 💾 Interests 
+- **Customer Analytics**
+  - **[Mobile Platform users](https://github.com/ttobaegi/team4_wanted_onboarding)**
+  - **[Ecommerce users](https://github.com/ttobaegi/Projects/tree/main/Ecommerce)**
+  - **[Side Projects](https://github.com/ttobaegi/Selfstudy_python/tree/main/Customer%20Analytics)**
 
+- **[Data Engineering](https://github.com/ttobaegi/DataEngineering)**
+- **[Book](https://github.com/ttobaegi/Projects/tree/main/Conference)**
+  
 </div>
