@@ -16,7 +16,7 @@
   
 - **Programming Languages**  Python(Numpy, Pandas, Scikit-learn, matplotlib), R
 - **Data Visualization**  Tableau Power BI
-- **Databases**  MySQL, MS-SQL
+- **Databases**  [MySQL](https://github.com/ttobaegi/MySQL), MS-SQL
   
 #### 💾 Interests 
 - **Customer Analytics**
