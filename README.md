@@ -23,7 +23,7 @@
   - **[Mobile Platform users w/ Python](https://github.com/ttobaegi/team4_wanted_onboarding)**
   - **[Ecommerce users w/ R](https://github.com/ttobaegi/Projects/tree/main/Ecommerce)**
   - **[Side Projects w/ Python](https://github.com/ttobaegi/Selfstudy_python/tree/main/Customer%20Analytics)**
-  - **[Side Projects w/ MySql](https://github.com/ttobaegi/MySQL/tree/main/CustomerAnalytics)**
+  - **[Side Projects w/ MySql](https://github.com/ttobaegi/MySQL/tree/main/CustomerAnalytics_SQL)**
 - **[Data Engineering](https://github.com/ttobaegi/DataEngineering)**
 - **[Book](https://github.com/ttobaegi/Projects/tree/main/Conference)**
   
