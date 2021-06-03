@@ -18,7 +18,7 @@
 - **Data Visualization**  Tableau Power BI
 - **Databases**  [MySQL](https://github.com/ttobaegi/MySQL), MS-SQL
   
-#### 💾 Interests 
+#### 💾 Interests
 - **Customer Analytics**
   - **[Mobile Platform users w/ Python](https://github.com/ttobaegi/team4_wanted_onboarding)**
   - **[Ecommerce users w/ R](https://github.com/ttobaegi/Projects/tree/main/Ecommerce)**
@@ -26,6 +26,6 @@
   - **[Side Projects w/ MySql](https://github.com/ttobaegi/MySQL/tree/main/CustomerAnalytics_SQL)**
 - **[Data Engineering](https://github.com/ttobaegi/DataEngineering)**
 - **[Book](https://github.com/ttobaegi/Projects/tree/main/Conference)**
-- **[Workout](https://github.com/ttobaegi/Selfstudy_python/tree/main/applewatch)
+- **[Workout](https://github.com/ttobaegi/Selfstudy_python/tree/main/applewatch)** 
   
 </div>
