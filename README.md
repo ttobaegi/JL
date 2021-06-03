@@ -26,5 +26,6 @@
   - **[Side Projects w/ MySql](https://github.com/ttobaegi/MySQL/tree/main/CustomerAnalytics_SQL)**
 - **[Data Engineering](https://github.com/ttobaegi/DataEngineering)**
 - **[Book](https://github.com/ttobaegi/Projects/tree/main/Conference)**
+- **[Workout](https://github.com/ttobaegi/Selfstudy_python/tree/main/applewatch)
   
 </div>
