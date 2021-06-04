@@ -27,5 +27,14 @@
 - **[Data Engineering](https://github.com/ttobaegi/DataEngineering)**
 - **[Book](https://github.com/ttobaegi/Projects/tree/main/Conference)**
 - **[Workout](https://github.com/ttobaegi/Selfstudy_python/tree/main/applewatch)** 
+- **[Data Visualization](https://public.tableau.com/profile/jiin.lee#!/?newProfile=&activeTab=0)**  
+
+  <img src="https://github.com/ttobaegi/visualization/blob/main/Retention.gif" width="200" height="140">     
   
+  <img src="https://github.com/ttobaegi/visualization/blob/main/DAU.gif" width="200" height="140">     
+  
+  <img src="https://github.com/ttobaegi/visualization/blob/main/KPI trend.gif" width="200" height="140">  
+  
+  <img src="https://github.com/ttobaegi/visualization/blob/main/applewatch.gif" width="200" height="140">
+
 </div>
