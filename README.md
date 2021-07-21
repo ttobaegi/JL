@@ -23,9 +23,7 @@
   - **[Ecommerce users w/ R](https://github.com/ttobaegi/Projects/tree/main/Ecommerce)**
   - **[Side Projects w/ Python](https://github.com/ttobaegi/Selfstudy_python/tree/main/Customer%20Analytics)**
   - **[Side Projects w/ MySql](https://github.com/ttobaegi/MySQL/tree/main/CustomerAnalytics_SQL)**
-- **[Data Engineering](https://github.com/ttobaegi/DataEngineering)**
 - **[Book](https://github.com/ttobaegi/Projects/tree/main/Conference)**
-- **[Workout](https://github.com/ttobaegi/Selfstudy_python/tree/main/applewatch)** 
 - **[Data Visualization](https://public.tableau.com/profile/jiin.lee#!/?newProfile=&activeTab=0)**  
 
   <img src="https://github.com/ttobaegi/visualization/blob/main/Retention.gif" width="200" height="140">     
