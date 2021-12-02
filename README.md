@@ -14,7 +14,8 @@
 - BOAZ, Datascience Community (2019.01-2020.01)
   
 #### Certificates
-  
+
+- Tensorflow Developers Certificate (2021.10)
 - 빅데이터분석기사 (2021.07)
 - Tableau Desktop Specialist (2021.03)
 - GAIQ Google Analytics Individual Qualification (2021.03)
