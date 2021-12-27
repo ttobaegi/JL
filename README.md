@@ -14,7 +14,7 @@
 - BOAZ, Datascience Community (2019.01-2020.01)
   
 #### Certificates
-
+- Google Professional Machine Learning Engineer (2021.12)
 - Tensorflow Developers Certificate (2021.10)
 - 빅데이터분석기사 (2021.07)
 - Tableau Desktop Specialist (2021.03)
