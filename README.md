@@ -8,7 +8,7 @@
 - IESEG School of Management, Exchange Student (2018.01-2018.06)
   
 #### _Related Experience_
-- [Google Machine Learning BootCamp](https://developers-kr.googleblog.com/2021/07/mlbootcamp21.html) (2021.08-Present)
+- [Google Machine Learning BootCamp](https://developers-kr.googleblog.com/2021/07/mlbootcamp21.html) (2021.08-2021.12)
 - EY Hanyoung, Assurance Department Data Analytics Team, Associate (2019.10-2021.05)
 - Pfizer Korea, Business Analytics & Insights Team, Intern (2019.07-08)
 - BOAZ, Datascience Community (2019.01-2020.01)
